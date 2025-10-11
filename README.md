@@ -100,6 +100,10 @@ key = "{API_KEY}"
 endpoint = "{ENDPOINT_AZ_COMPUTER_VISION}"
 ```
 
+## 🎥 **Vídeo demonstrativo**
+
+**Link Youtube:** https://youtu.be/bYFx-rRQM80?si=EMnabShqzh3tfmhM
+
 ## 👨‍💻 **Grupo Desenvolvedor**
 
 - Gabriela de Sousa Reis - RM558830
